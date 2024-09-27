@@ -1,0 +1,4 @@
+The determinant of A is 0.
+Since the determinant of A is 0, matrix A does not have an inverse.
+
+Since B is not a square matrix, neither the determinant nor the inverse can be computed.
